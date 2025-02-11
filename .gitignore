@@ -1,0 +1,6 @@
+# Ignore compiled files
+*.class
+*.o
+*.exe
+__pycache__/
+node_modules/
